@@ -1,2 +1,2 @@
 # mypythonprograms
-consists of different interesting python programs and a game 
+consists of different interesting python programs that i created while exploring/ learning python
