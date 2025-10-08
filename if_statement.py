@@ -1,10 +1,10 @@
-secrete_word = "Achieve"
+secret_word = "Achieve"
 guess = ""
 guess_count = 0
 out_of_guesses = False
 guess_limit = 3
 
-while guess != secrete_word:
+while guess != secret_word:
     if guess_count < guess_limit:
       guess = input("Enter a guess :")
       guess_count += 1
